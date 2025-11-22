@@ -27,7 +27,7 @@
 
 I'm a passionate **Software Engineer** with **2+ years of experience** building production mobile apps that serve **50K+ users** across UAE, Egypt, and beyond. I specialize in **React Native**, **Expo**, and **TypeScript**, focusing on clean front-end architecture, smooth UX, and reliable API/analytics integrations.
 
-- 🔭 Currently working at **Bayut / Dubizzle Labs** as a **Software Engineer** (Remote from UAE)
+- 🔭 Currently working at **Bayut / Dubizzle Labs** as a **Software Engineer**
 - 🌱 Building **Profolio** - a real estate lead management app for 1,075+ agencies
 - 💡 Delivered **30+ production features** spanning navigation, analytics, and lead management
 - 📈 Improved user onboarding completion by **~40%** through data-driven UX design
