@@ -1,16 +1,3 @@
-<!-- Banner Image -->
-<div align="center">
-  <img src="https://github.com/tayyab-saeed/tayyab-saeed/blob/main/banner.png" alt="Muhammad Tayyab Saeed - Software Engineer" width="100%">
-</div>
-
-<!-- Visitor Counter -->
-<div align="center">
-  <p>👁️ Profile Views</p>
-  <img src="https://profile-counter.glitch.me/tayyab-saeed/count.svg" alt="Visitor Count" />
-</div>
-
----
-
 # Hi there, I'm Muhammad Tayyab Saeed! 👋
 
 <div align="center">
