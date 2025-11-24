@@ -3,7 +3,8 @@
 🌐 **Personal Websites are Live!**
 
 [![Academic Portfolio](https://img.shields.io/badge/🎓_Academic-tayyab--saeed.github.io-3B82F6?style=plastic&logo=github&logoColor=white)](https://tayyab-saeed.github.io)
-[![Dev Portfolio](https://img.shields.io/badge/💻_Dev-tayyab--saeed--dev.vercel.app-0D1117?style=plastic&logo=vercel&logoColor=00FF00)](https://tayyab-saeed-dev.vercel.app)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![Dev Portfolio](https://img.shields.io/badge/💻_Dev-tayyab--saeed--dev.vercel.app-0D1117?style=plastic&logo=vercel&logoColor=white)](https://tayyab-saeed-dev.vercel.app)
 
 </div>
 
