@@ -1,3 +1,12 @@
+<div align="center">
+  
+🌐 **Personal Websites are Live!**
+
+[![Academic Portfolio](https://img.shields.io/badge/🎓_Academic-tayyab--saeed.github.io-3B82F6?style=plastic&logo=github&logoColor=white)](https://tayyab-saeed.github.io)
+[![Dev Portfolio](https://img.shields.io/badge/💻_Dev-tayyab--saeed--dev.vercel.app-0D1117?style=plastic&logo=vercel&logoColor=00FF00)](https://tayyab-saeed-dev.vercel.app)
+
+</div>
+
 # Hi there, I'm Muhammad Tayyab Saeed! 👋
 
 <div align="center">
