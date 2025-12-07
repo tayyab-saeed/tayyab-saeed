@@ -127,20 +127,24 @@ I'm a experienced **Software Engineer** specializing in **JavaScript/TypeScript*
 
 ---
 
-## ⚡️ Stats
+## ⚡️ GitHub Analytics
 
-<br>
-
-<div align=center>
+<div align="center">
 
 
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=tayyab-saeed&theme=transparent&count_private=true&border_radius=10&locale=en" alt="tayyab-saeed's GitHub Streak" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tayyab-saeed&theme=tokyonight&hide_border=true&background=0D1117&stroke=70A5FD&ring=70A5FD&fire=FF6B6B&currStreakLabel=70A5FD" alt="GitHub Streak"/>
+
+<br/>
 
 
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
 
 </div>
-
-<hr>
 
 ---
 
