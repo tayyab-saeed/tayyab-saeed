@@ -12,9 +12,9 @@
 
 <div align="center">
   
-### 💼 Software Engineer | 📱 Mobile App Developer | 🚀 React Native Specialist
+### 💼 Software Engineer | 📱 Mobile & Web App Developer | 🚀 Frontend Specialist
 
-**Building production-grade mobile experiences with React Native, Expo & TypeScript**
+**Building production-grade web & mobile experiences with React ecosystem & Typescript**
 
 </div>
 
@@ -22,11 +22,11 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a passionate **Software Engineer** with **2+ years of experience** building production mobile apps that serve **50K+ users** across UAE, Egypt, and beyond. I specialize in **React Native**, **Expo**, and **TypeScript**, focusing on clean front-end architecture, smooth UX, and reliable API/analytics integrations.
+I'm a experienced **Software Engineer** specializing in **JavaScript/TypeScript**, building production-grade web and mobile apps with **React Native, Expo, ReactJS and Next.js**. Focused on **scalable application architecture**, **smooth and responsive UX**, and **reliable API/analytics integrations**, while collaborating closely with product, design, QA, and backend teams.
 
 - 🔭 Currently working at **Bayut / Dubizzle Labs** as a **Software Engineer**
 - 🌱 Building **Profolio** - a real estate lead management app for 1,075+ agencies
-- 💡 Delivered **30+ production features** spanning navigation, analytics, and lead management
+- 💡 Delivered **50+ production features** spanning navigation, analytics, and lead management
 - 📈 Improved user onboarding completion by **~40%** through data-driven UX design
 - 🎯 Focused on creating delightful user experiences on both iOS and Android
 - 🤝 Love collaborating with Product, Design, Data, and QA teams
@@ -75,7 +75,7 @@ I'm a passionate **Software Engineer** with **2+ years of experience** building 
 > Cross-platform app serving **1,075+ agencies** and **50K+ monthly users** across UAE & Egypt
 
 **Key Achievements:**
-- ✅ Delivered **30+ production features** for v2.0 → v3.0 upgrade
+- ✅ Delivered **50+ production features** for v2.0 → v3.0 upgrade
 - 📊 Built BI-driven **Overview Page** with performance analytics widgets
 - 🎯 Designed onboarding flows that improved completion by **~40%**
 - 🔐 Implemented portal-aware login for UAE & Egypt markets
@@ -133,11 +133,10 @@ I'm a passionate **Software Engineer** with **2+ years of experience** building 
 
 <div align=center>
 
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=tayyab-saeed&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="tayyab-saeed's GitHub Stats" />
 
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=tayyab-saeed&theme=transparent&count_private=true&border_radius=10&locale=en" alt="tayyab-saeed's GitHub Streak" />
 
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=tayyab-saeed&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="tayyab-saeed's Most Used Languages" />
+
 
 </div>
 
@@ -148,7 +147,7 @@ I'm a passionate **Software Engineer** with **2+ years of experience** building 
 ## 🎓 Education & Certifications
 
 **🎓 BSc Information Technology**  
-*Punjab University College of Information Technology* | Oct 2019 - July 2023  
+*Punjab University College of Information Technology*  
 **CGPA:** 3.48/4.00
 
 **📜 IELTS Certification**  
@@ -160,7 +159,7 @@ I'm a passionate **Software Engineer** with **2+ years of experience** building 
 ## 💼 Professional Experience
 
 ### **Software Engineer** @ Bayut / Dubizzle Labs
-📍 UAE (Remote) | 📅 Jun 2024 – Present
+📍 UAE (Remote) | 📅 Jun 2023 – Present
 
 - 🚀 Core React Native engineer on Profolio v3.0
 - 📊 Built BI-driven analytics dashboards
@@ -169,7 +168,7 @@ I'm a passionate **Software Engineer** with **2+ years of experience** building 
 - 📈 Increased lead transparency by 20%
 
 ### **Associate Software Engineer** @ Devsinc
-📍 Lahore, PK | 📅 Aug 2023 – May 2024
+📍 Lahore, PK | 📅 Aug 2022 – May 2023
 
 - 💰 Delivered end-to-end Triangle Wallet frontend
 - 📈 Built real-time crypto price tracking
@@ -201,9 +200,8 @@ I'm a passionate **Software Engineer** with **2+ years of experience** building 
   
 ### 💬 Let's Collaborate!
 
-*If you're building something that needs thoughtful mobile UX, analytics-aware features, or polished React Native flows, let's connect!*
+*If you're building something that needs thoughtful mobile and web UX, analytics-aware features, or polished user flows, let's connect!*
 
-**⭐ Feel free to explore my repositories and don't forget to star the ones you find interesting!**
 
 </div>
 
