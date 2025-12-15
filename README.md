@@ -163,7 +163,7 @@ I'm a experienced **Software Engineer** specializing in **JavaScript/TypeScript*
 ## 💼 Professional Experience
 
 ### **Software Engineer** @ Bayut / Dubizzle Labs
-📍 UAE (Remote) | 📅 Jun 2023 – Present
+📍 UAE (Remote) | Present
 
 - 🚀 Core React Native engineer on Profolio v3.0
 - 📊 Built BI-driven analytics dashboards
@@ -172,8 +172,7 @@ I'm a experienced **Software Engineer** specializing in **JavaScript/TypeScript*
 - 📈 Increased lead transparency by 20%
 
 ### **Associate Software Engineer** @ Devsinc
-📍 Lahore, PK | 📅 Aug 2022 – May 2023
-
+📍 Lahore, PK
 - 💰 Delivered end-to-end Triangle Wallet frontend
 - 📈 Built real-time crypto price tracking
 - 🔄 Refactored components for better performance
